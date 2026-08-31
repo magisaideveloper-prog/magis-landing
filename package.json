@@ -1,0 +1,11 @@
+{
+  "name": "magis-landing",
+  "version": "1.0.0",
+  "description": "Magis AI Academy Landing Page",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.1"
+  }
+}
